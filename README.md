@@ -1,10 +1,10 @@
 # CODTECH-Task1
 
-Name- Ritesh Badguye.
-ID-CT4FWD3029.
-Domain-Frontend.
-Duration-June-July2024
-Mentor-Neela Santhosh Kumar  
+Name- Ritesh Badguye,
+ID-CT4FWD3029,
+Domain-Frontend,
+Duration-June-July2024,
+Mentor-Neela Santhosh Kumar. 
 
 Overview:-
 PERSONAL PORTFOLIO WEBSITE
