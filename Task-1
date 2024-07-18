@@ -1,0 +1,62 @@
+/*Html Code*/
+
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="portfoliostylesheet.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h1>About Me</h1>
+      <p>Welcome to my portfolio! Hello! My name is Ritesh Badguye, 
+          and I am currently pursuing my graduation in the AI branch. 
+          With a strong passion for technology and innovation, 
+          I have been actively involved in developing projects that solve real-world problems.</p>
+    </section>
+
+    <section id="projects">
+      <h1>Projects</h1>
+      <div class="project-list">
+        <div class="project">
+          <h2>Project 1</h2>
+          <p>Online Auction Bidding System.</p>
+        </div>
+        <div class="project">
+          <h2>Project 2</h2>
+          <p>Sarcasm Detection in Text.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h1>Contact</h1>
+      <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+      <p>&copy; 2024 <b>RSB</b></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
